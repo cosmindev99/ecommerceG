@@ -22,14 +22,15 @@ body {
   }
   .logo {
 
-background-image: url("");
+ background-image: url("https://img5.goodfon.com/original/2880x1800/f/39/louis-by-louis-white-flowers-in-bloom-tsvety-priroda-tsvet-v.jpg");
  background-color: #cccccc;
+ 
 
   
 
   }
   .nav_bar {
-
+    border: 2px solid #cccccc
 
   }
   .shop-items {
@@ -42,9 +43,10 @@ background-image: url("");
   }
 .hero {
   background: rgb(192 201 204);
+  background-image: url(https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbHxlbnwwfHwwfHw%3D&w=1000&q=80);
     color: #677db1;
-    padding: 25%;
-    margin: 3%;
+    padding: 18%;
+    margin: 1%;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 
@@ -55,7 +57,7 @@ background-image: url("");
     justify-content: space-between;
 }
 button {
-  color: blueviolet;
+  color: rgb(214, 193, 234);
     font-family: serif;
     font-size: xxx-large;
     display: flex;
