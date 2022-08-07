@@ -20,5 +20,15 @@ body {
   }
   .nav_bar {
 
+
   }
+  .shop-items {
+    background: aliceblue;
+    color: crimson;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: baseline;
+  }
+
   
