@@ -21,10 +21,14 @@ body {
     justify-content: space-between;
   }
   .logo {
+  
 
- background-image: url("https://img5.goodfon.com/original/2880x1800/f/39/louis-by-louis-white-flowers-in-bloom-tsvety-priroda-tsvet-v.jpg");
- background-color: #cccccc;
- 
+  width: 1px;
+  height: 1px;
+  background-color: #cccccc;
+  color: aliceblue;
+  border: 2px solid #cccccc
+
 
   
 
@@ -47,7 +51,7 @@ body {
   background: rgb(192 201 204);
   background-image: url(https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbHxlbnwwfHwwfHw%3D&w=1000&q=80);
     color: #d2d6e0;
-    padding: 18%;
+    padding: 20%;
     margin: 1%;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
@@ -57,11 +61,12 @@ body {
     flex-direction: row;
     align-content: space-around;
     justify-content: space-between;
+    bottom: 10%;
 }
 button {
   color: rgb(214, 193, 234);
     font-family: serif;
-    font-size: xxx-large;
+    font-size:xx-large;
     display: flex;
     justify-content: center;
     border: cornsilk;
@@ -70,4 +75,22 @@ button {
 }
 a {
   color: aliceblue;
+  font-family: 'Courier New', Courier, monospace
+  
+}
+.class{
+  background: rgb(192 201 204);
+  background-image: url(https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbHxlbnwwfHwwfHw%3D&w=1000&q=80);
+    color: #d2d6e0;
+    padding: 20%;
+    margin: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+    border: 2px solid darkblue;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-between;
+    bottom: 10%;
 }
