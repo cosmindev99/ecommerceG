@@ -1,0 +1,10 @@
+body {
+    background-color: powderblue;
+  }
+  .header {
+    background: lightblue;
+    color: black;
+    padding: 10%;
+    margin: 10%;
+    border: 5%;
+  }
