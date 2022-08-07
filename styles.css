@@ -30,6 +30,8 @@ body {
 
   }
   .nav_bar {
+    background-color: #cccccc;
+    color: aliceblue;
     border: 2px solid #cccccc
 
   }
@@ -44,7 +46,7 @@ body {
 .hero {
   background: rgb(192 201 204);
   background-image: url(https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbHxlbnwwfHwwfHw%3D&w=1000&q=80);
-    color: #677db1;
+    color: #d2d6e0;
     padding: 18%;
     margin: 1%;
     font-family: 'Times New Roman', Times, serif;
@@ -66,6 +68,6 @@ button {
     align-content: center;
     flex-direction: row-reverse;
 }
-img {
-  
+a {
+  color: aliceblue;
 }
