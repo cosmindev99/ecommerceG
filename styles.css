@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_bold.woff);
+  font-weight: bold;
+}
 body {
     background-color: powderblue;
   }
@@ -16,9 +21,11 @@ body {
     justify-content: space-between;
   }
   .logo {
-    background: aliceblue;
-    color: crimson;
-    display: flex;
+
+background-image: url("");
+ background-color: #cccccc;
+
+  
 
   }
   .nav_bar {
@@ -57,4 +64,6 @@ button {
     align-content: center;
     flex-direction: row-reverse;
 }
+img {
   
+}
