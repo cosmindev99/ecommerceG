@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 body {
     background-color: powderblue;
   }
@@ -30,5 +33,28 @@ body {
     flex-direction: row-reverse;
     align-items: baseline;
   }
+.hero {
+  background: rgb(192 201 204);
+    color: #677db1;
+    padding: 25%;
+    margin: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 
+    border: 2px solid darkblue;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-between;
+}
+button {
+  color: blueviolet;
+    font-family: serif;
+    font-size: xxx-large;
+    display: flex;
+    justify-content: center;
+    border: cornsilk;
+    align-content: center;
+    flex-direction: row-reverse;
+}
   
