@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+  }
+  .header {
+    background: rgb(103, 135, 145);
+    color: black;
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid darkblue;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    justify-content: space-between;
+  }
+  .logo {
+    background: aliceblue;
+    color: crimson;
+    display: flex;
+
+  }
+  .nav_bar {
+    
+  }
