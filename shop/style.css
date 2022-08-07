@@ -8,3 +8,9 @@ body {
     margin: 10%;
     border: 5%;
   }
+  .logo {
+    background: aliceblue;
+    color: crimson;
+    display: flex;
+
+  }
