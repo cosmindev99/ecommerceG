@@ -10,7 +10,7 @@ body {
     background-color: powderblue;
   }
   .header {
-    background: rgb(103, 135, 145);
+    background: rgb(255, 255, 255);
     color: black;
     padding: 1%;
     margin: 1%;
@@ -34,7 +34,7 @@ body {
 
   }
   .nav_bar {
-    background-color: #cccccc;
+    background-color: #fefbfb;
     color: aliceblue;
     border: 2px solid #cccccc
 
