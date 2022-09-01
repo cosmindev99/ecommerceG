@@ -34,7 +34,7 @@ body {
 
   }
   .nav_bar {
-    background-color: #fefbfb;
+    background-color: #a8a0a0;
     color: aliceblue;
     border: 2px solid #cccccc
 
@@ -76,7 +76,7 @@ button {
     flex-direction: row-reverse;
 }
 a {
-  color: aliceblue;
+  color: rgb(29, 47, 62);
   font-family: 'Courier New', Courier, monospace
   
 }
